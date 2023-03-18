@@ -51,3 +51,4 @@
     - [History](history.md)
   - [VS Code](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/releases)
 - [License](LICENSE.md)
+برای جای‌گذاری کلیپ در کادر نوشتار، روی آن ضربه بزنید._Sidebar
